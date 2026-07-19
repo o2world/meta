@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-07-19T14:34:06.266Z",
+  "weekly": [
+    {
+      "songId": 178,
+      "count": 825
+    },
+    {
+      "songId": 218,
+      "count": 461
+    },
+    {
+      "songId": 197,
+      "count": 422
+    },
+    {
+      "songId": 426,
+      "count": 393
+    },
+    {
+      "songId": 223,
+      "count": 268
+    },
+    {
+      "songId": null,
+      "count": 206
+    },
+    {
+      "songId": 110,
+      "count": 193
+    },
+    {
+      "songId": 210,
+      "count": 183
+    },
+    {
+      "songId": 1055,
+      "count": 175
+    },
+    {
+      "songId": 336,
+      "count": 173
+    }
+  ],
+  "allTime": [
+    {
+      "songId": 178,
+      "count": 823
+    },
+    {
+      "songId": 426,
+      "count": 461
+    },
+    {
+      "songId": 218,
+      "count": 444
+    },
+    {
+      "songId": 197,
+      "count": 390
+    },
+    {
+      "songId": 336,
+      "count": 235
+    },
+    {
+      "songId": 110,
+      "count": 207
+    },
+    {
+      "songId": 210,
+      "count": 204
+    },
+    {
+      "songId": 223,
+      "count": 197
+    },
+    {
+      "songId": 1055,
+      "count": 193
+    },
+    {
+      "songId": 506,
+      "count": 164
+    }
+  ]
+}
