@@ -1,171 +1,171 @@
 {
-  "generatedAt": "2026-08-28T04:02:50.939Z",
+  "generatedAt": "2026-08-29T02:43:15.745Z",
   "weekly": [
     {
       "songId": 178,
-      "count": 3062
+      "count": 3094
     },
     {
       "songId": 197,
-      "count": 2202
+      "count": 2416
     },
     {
       "songId": 426,
-      "count": 1547
-    },
-    {
-      "songId": 336,
-      "count": 1051
+      "count": 1695
     },
     {
       "songId": 191,
-      "count": 1027
+      "count": 1146
     },
     {
-      "songId": 215,
-      "count": 932
+      "songId": 336,
+      "count": 1121
     },
     {
       "songId": 111,
-      "count": 853
+      "count": 987
+    },
+    {
+      "songId": 215,
+      "count": 977
     },
     {
       "songId": 107,
-      "count": 737
+      "count": 838
     },
     {
       "songId": 361,
-      "count": 594
+      "count": 685
     },
     {
-      "songId": 218,
-      "count": 574
+      "songId": 146,
+      "count": 655
     }
   ],
   "allTime": [
     {
       "songId": 178,
-      "count": 16816
+      "count": 16977
     },
     {
       "songId": 197,
-      "count": 10489
+      "count": 10822
     },
     {
       "songId": 218,
-      "count": 9220
+      "count": 9266
     },
     {
       "songId": 426,
-      "count": 7695
+      "count": 7999
     },
     {
       "songId": 223,
-      "count": 5686
+      "count": 5482
     },
     {
       "songId": 110,
-      "count": 4699
+      "count": 4716
     },
     {
       "songId": 215,
-      "count": 3988
+      "count": 4132
     },
     {
       "songId": 336,
-      "count": 3942
+      "count": 4120
     },
     {
       "songId": 1055,
-      "count": 3248
+      "count": 3276
     },
     {
       "songId": 506,
-      "count": 3199
+      "count": 3235
     }
   ],
   "weeklyFree": [
     {
       "songId": 178,
-      "count": 3062
+      "count": 3094
     },
     {
       "songId": 197,
-      "count": 2202
+      "count": 2416
     },
     {
       "songId": 426,
-      "count": 1547
-    },
-    {
-      "songId": 336,
-      "count": 1051
+      "count": 1695
     },
     {
       "songId": 191,
-      "count": 1027
+      "count": 1146
     },
     {
-      "songId": 215,
-      "count": 932
+      "songId": 336,
+      "count": 1121
     },
     {
       "songId": 111,
-      "count": 853
+      "count": 987
+    },
+    {
+      "songId": 215,
+      "count": 977
     },
     {
       "songId": 107,
-      "count": 737
+      "count": 838
     },
     {
       "songId": 361,
-      "count": 594
+      "count": 685
     },
     {
       "songId": 146,
-      "count": 556
+      "count": 655
     }
   ],
   "allTimeFree": [
     {
       "songId": 178,
-      "count": 16816
+      "count": 16977
     },
     {
       "songId": 197,
-      "count": 10489
+      "count": 10822
     },
     {
       "songId": 426,
-      "count": 7695
+      "count": 7999
     },
     {
       "songId": 215,
-      "count": 3988
+      "count": 4132
     },
     {
       "songId": 336,
-      "count": 3942
+      "count": 4120
     },
     {
       "songId": 111,
-      "count": 2628
+      "count": 2900
     },
     {
       "songId": 191,
-      "count": 2175
-    },
-    {
-      "songId": 390,
-      "count": 1715
+      "count": 2266
     },
     {
       "songId": 107,
-      "count": 1663
+      "count": 1825
+    },
+    {
+      "songId": 390,
+      "count": 1783
     },
     {
       "songId": 251,
-      "count": 1376
+      "count": 1476
     }
   ]
 }
