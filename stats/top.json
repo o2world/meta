@@ -1,36 +1,32 @@
 {
-  "generatedAt": "2026-11-03T02:00:33.108Z",
+  "generatedAt": "2026-11-04T00:23:21.813Z",
   "weekly": [
     {
       "songId": 218,
-      "count": 29
+      "count": 22
     },
     {
       "songId": 403,
-      "count": 10
-    },
-    {
-      "songId": 308,
-      "count": 7
-    },
-    {
-      "songId": 178,
-      "count": 6
-    },
-    {
-      "songId": 267,
-      "count": 5
-    },
-    {
-      "songId": 336,
-      "count": 5
-    },
-    {
-      "songId": 361,
-      "count": 5
+      "count": 9
     },
     {
       "songId": 201,
+      "count": 5
+    },
+    {
+      "songId": 308,
+      "count": 5
+    },
+    {
+      "songId": 197,
+      "count": 4
+    },
+    {
+      "songId": 267,
+      "count": 4
+    },
+    {
+      "songId": 336,
       "count": 4
     },
     {
@@ -38,7 +34,11 @@
       "count": 3
     },
     {
-      "songId": 197,
+      "songId": 178,
+      "count": 3
+    },
+    {
+      "songId": 217,
       "count": 3
     }
   ],
@@ -49,7 +49,7 @@
     },
     {
       "songId": 197,
-      "count": 17491
+      "count": 17493
     },
     {
       "songId": 426,
@@ -57,7 +57,7 @@
     },
     {
       "songId": 218,
-      "count": 8379
+      "count": 8381
     },
     {
       "songId": 215,
@@ -86,19 +86,15 @@
   ],
   "weeklyFree": [
     {
-      "songId": 178,
-      "count": 6
+      "songId": 197,
+      "count": 4
     },
     {
       "songId": 336,
-      "count": 5
+      "count": 4
     },
     {
-      "songId": 361,
-      "count": 5
-    },
-    {
-      "songId": 197,
+      "songId": 178,
       "count": 3
     },
     {
@@ -106,23 +102,27 @@
       "count": 3
     },
     {
-      "songId": 390,
-      "count": 3
-    },
-    {
-      "songId": 205,
-      "count": 2
-    },
-    {
       "songId": 215,
       "count": 2
     },
     {
-      "songId": 426,
-      "count": 2
+      "songId": 100,
+      "count": 1
     },
     {
-      "songId": 112,
+      "songId": 122,
+      "count": 1
+    },
+    {
+      "songId": 243,
+      "count": 1
+    },
+    {
+      "songId": 361,
+      "count": 1
+    },
+    {
+      "songId": 426,
       "count": 1
     }
   ],
@@ -133,7 +133,7 @@
     },
     {
       "songId": 197,
-      "count": 17491
+      "count": 17493
     },
     {
       "songId": 426,
@@ -161,7 +161,7 @@
     },
     {
       "songId": 251,
-      "count": 3714
+      "count": 3715
     },
     {
       "songId": 361,
