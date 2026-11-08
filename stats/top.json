@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T23:26:04.241Z",
+  "generatedAt": "2026-11-08T23:26:16.106Z",
   "weekly": [
     {
       "songId": 218,
-      "count": 20
+      "count": 23
     },
     {
       "songId": 403,
@@ -14,11 +14,11 @@
       "count": 6
     },
     {
-      "songId": 308,
+      "songId": 217,
       "count": 6
     },
     {
-      "songId": 217,
+      "songId": 308,
       "count": 5
     },
     {
@@ -30,11 +30,11 @@
       "count": 4
     },
     {
-      "songId": 267,
-      "count": 4
+      "songId": 178,
+      "count": 3
     },
     {
-      "songId": 178,
+      "songId": 267,
       "count": 3
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "songId": 218,
-      "count": 8387
+      "count": 8390
     },
     {
       "songId": 215,
@@ -115,6 +115,10 @@
     },
     {
       "songId": 122,
+      "count": 1
+    },
+    {
+      "songId": 226,
       "count": 1
     },
     {
