@@ -1,17 +1,33 @@
 {
-  "generatedAt": "2026-11-19T01:43:46.657Z",
+  "generatedAt": "2026-11-20T01:39:51.652Z",
   "weekly": [
+    {
+      "songId": 197,
+      "count": 6
+    },
     {
       "songId": 218,
       "count": 6
     },
     {
-      "songId": 197,
+      "songId": 403,
       "count": 4
     },
     {
-      "songId": 403,
-      "count": 4
+      "songId": 217,
+      "count": 3
+    },
+    {
+      "songId": 223,
+      "count": 3
+    },
+    {
+      "songId": 228,
+      "count": 3
+    },
+    {
+      "songId": 2528,
+      "count": 3
     },
     {
       "songId": 306,
@@ -22,34 +38,18 @@
       "count": 3
     },
     {
-      "songId": 110,
-      "count": 2
-    },
-    {
-      "songId": 173,
-      "count": 2
-    },
-    {
-      "songId": 1999,
-      "count": 2
-    },
-    {
-      "songId": 217,
-      "count": 2
-    },
-    {
-      "songId": 223,
-      "count": 2
+      "songId": 394,
+      "count": 3
     }
   ],
   "allTime": [
     {
       "songId": 178,
-      "count": 24197
+      "count": 24198
     },
     {
       "songId": 197,
-      "count": 17504
+      "count": 17506
     },
     {
       "songId": 426,
@@ -69,11 +69,11 @@
     },
     {
       "songId": 223,
-      "count": 5572
+      "count": 5573
     },
     {
       "songId": 111,
-      "count": 5318
+      "count": 5319
     },
     {
       "songId": 191,
@@ -87,11 +87,19 @@
   "weeklyFree": [
     {
       "songId": 197,
-      "count": 4
+      "count": 6
     },
     {
       "songId": 226,
       "count": 2
+    },
+    {
+      "songId": 111,
+      "count": 1
+    },
+    {
+      "songId": 178,
+      "count": 1
     },
     {
       "songId": 232,
@@ -113,11 +121,11 @@
   "allTimeFree": [
     {
       "songId": 178,
-      "count": 24197
+      "count": 24198
     },
     {
       "songId": 197,
-      "count": 17504
+      "count": 17506
     },
     {
       "songId": 426,
@@ -133,7 +141,7 @@
     },
     {
       "songId": 111,
-      "count": 5318
+      "count": 5319
     },
     {
       "songId": 191,
